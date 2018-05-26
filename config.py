@@ -25,7 +25,7 @@ MAIL_SERVER = ''
 MAIL_PORT = ''
 MAIL_USERNAME = ''
 MAIL_PASSWORD = ''
-MAIL_DEFAULT_SENDER = 'char_python@qq.com'
+MAIL_DEFAULT_SENDER = 'mrfu1998@gmail.com'
 MAIL_USE_SSL = True
 
 # QQ邮箱
